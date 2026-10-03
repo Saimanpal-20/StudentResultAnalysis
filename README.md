@@ -372,12 +372,6 @@ This project demonstrates practical experience with:
 ## 👨‍💻 Author
 
 **Saiman Pal**
-
-B.Tech Computer Science Engineering Student
-
-Interested in **Data Analytics, Data Engineering, Python, SQL, and
-Business Intelligence**.
-
 ------------------------------------------------------------------------
 
 ## ⭐ Project Purpose
@@ -386,6 +380,3 @@ This project was created as a practical Data Analytics / EDA project to
 demonstrate the process of taking a raw dataset, cleaning it, exploring
 its characteristics, visualizing patterns, and documenting observations
 using Python.
-
-If you find this project useful, consider giving the repository a ⭐ on
-GitHub.
